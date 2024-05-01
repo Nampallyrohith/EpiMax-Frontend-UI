@@ -2,7 +2,7 @@
 
 ### 1. UI Design: High-Fidelity Mockups
 
-**Deployed Link:**
+**Deployed Link:** https://epimax-frontend-task-list.netlify.app/
 
 **Github Link:** https://github.com/Nampallyrohith/EpiMax-Frontend-UI
 
